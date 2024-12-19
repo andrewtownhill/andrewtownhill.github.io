@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "This can be any title I like"
 ---
 ## Under construction
