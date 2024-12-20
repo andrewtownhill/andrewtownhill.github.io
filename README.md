@@ -1,8 +1,4 @@
----
-layout: default
-title: "Readme"
----
-## Under construction
+## Andrew's Blog site
 
-Welcome to a new home for my blog, it will be up and running soon.
 
+N.B. This page is excluded from site generation by listing under the exclude tag in _config.yml
